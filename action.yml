@@ -1,6 +1,6 @@
-name: 'redoc-lint-github-action'
+name: 'redoc-lint-github-action-bbrks'
 
-description: 'Runs the Redocly Open API CLI lint over your open api document'
+description: 'A temporary fork of redoc-lint-github-action - Runs the Redocly Open API CLI lint over your open api document'
 
 branding:
     icon: 'check'
